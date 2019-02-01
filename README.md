@@ -6,6 +6,6 @@ Features. CLI. Quote and author binding. Clean and organized text formatting. Au
 
 Technologies. Java 11, JavaMail API, POP3.
 
-How to use. Edit `QuoteCollectionEditor` where appropriate. (i.e. Protocol, host, and port information. Email address and password can be either hardcoded or entered at the CL prompt.) Compile and run `Main.java`.
+How to use. Edit `QuoteCollectionEditor.java` where appropriate. (i.e. Protocol, host, and port information. Email address and password can be either hardcoded or entered at the CL prompt.) Compile and run `Main.java`.
 
 Note. It's not user friendly at the moment. Also...the quote server seems to have been permanently shut down. :(
